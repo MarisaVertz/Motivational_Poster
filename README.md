@@ -1,7 +1,7 @@
-<h1>Cat Blog</h1>
-<p>In this project we had to create a blog using basic HTML properties.</p>
+<h1>Motivational Poster</h1>
+<p>Practicing with basic CSS. If he fits, he sits.</p>
 <a href="https://marisavertz.github.io/Motivational_Poster/">
-  <img src="https://raw.githubusercontent.com/MarisaVertz/Cat_Blog/refs/heads/main/images/cat-blog-screenshot.png" width="500">
+  <img src="https://raw.githubusercontent.com/MarisaVertz/Motivational_Poster/refs/heads/main/assets/images/poster_screenshot.png" width="500">
 </a>
 <br><br>
 <a href="https://marisavertz.github.io/Motivational_Poster/">
